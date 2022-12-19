@@ -1,0 +1,19 @@
+{
+  "folders": [
+    {
+      "path": "../../../voorbeeldcode_W10"
+    },
+    {
+      "path": "../.."
+    },
+    {
+      "path": "../../../W10"
+    },
+    {
+      "path": "../../../W11"
+    }
+  ],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "W11"
+  }
+}
